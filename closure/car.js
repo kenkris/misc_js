@@ -1,0 +1,23 @@
+
+function createCar(brand, model){
+
+    brand = brand.toUpperCase();
+
+    function details(price){
+        console.log({
+            brand : brand,
+            model : model,
+            price : price
+        });
+    }
+
+    return details;
+}
+
+let car1 = createCar("Peugeot", "208");
+let car2 = createCar("VW", "Golf");
+
+car1(1000);
+car2(2000);
+
+
