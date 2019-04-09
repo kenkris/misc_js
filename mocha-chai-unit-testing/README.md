@@ -14,6 +14,15 @@ npm install chai
 ```
 
 ## Run test manualy
+* If test files are put into test dir then run:
+```
+$misc_js/mocha-chai-unit-testing mocha
+```
+
+```
+mocha test.js 
+```
+
 ```
 mocha test.js 
 ```
