@@ -18,11 +18,7 @@ npm install chai
 ```
 $misc_js/mocha-chai-unit-testing mocha
 ```
-
-```
-mocha test.js 
-```
-
+* Run file seperatly
 ```
 mocha test.js 
 ```
