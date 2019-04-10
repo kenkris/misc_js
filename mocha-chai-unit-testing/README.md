@@ -22,3 +22,13 @@ $misc_js/mocha-chai-unit-testing mocha
 ```
 mocha test.js 
 ```
+
+## Run test with gulp
+```
+npm install gulp gulp-mocha gulp-util
+```
+```
+gulp default
+```
+
+
