@@ -1,4 +1,4 @@
-
+// Create car
 function createCar(brand, model){
 
     brand = brand.toUpperCase();
